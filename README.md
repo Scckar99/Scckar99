@@ -1,113 +1,47 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbition&size=25&color=9D00FF&background=000000&center=true&vCenter=true&width=600&height=45&lines=范添瑞+-+AI新技术工程师;Machine+Learning+Engineer;Full+Stack+Developer" alt="Typing SVG" />
+## 你好，我是 Scckar 👋
+
+欢迎来到我的 GitHub 主页！我热爱编码、开源与分享，专注于构建实用、可维护、可扩展的项目。
+
+### 🙋‍♂️ 关于我 About Me
+- 🧑‍💻 热衷于学习新技术与工程化实践
+- 🧩 关注代码可读性、自动化与性能优化
+- 🌱 正在深入：`TypeScript` · `Node.js` · `React` · `CI/CD`
+- 📦 喜欢做的小工具：命令行工具、自动化脚本、数据可视化
+
+### 🛠 技术栈 Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-4%2B-3178C6?logo=typescript&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?logo=node.js&logoColor=fff)
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=000)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Automation-2088FF?logo=githubactions&logoColor=fff)
+
+### 📊 GitHub 统计 Stats
+<div>
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Scckar99&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scckar99&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-9D00FF?style=for-the-badge&logo=github&labelColor=000000" alt="Status" />
-  <img src="https://img.shields.io/badge/Languages-Python%20|%20Java%20|%20JavaScript-9D00FF?style=for-the-badge&logo=github&labelColor=000000" alt="Languages" />
-  <img src="https://img.shields.io/badge/Frameworks-TensorFlow%20|%20PyTorch%20|%20React-9D00FF?style=for-the-badge&logo=github&labelColor=000000" alt="Frameworks" />
-</p>
+<div>
 
-<br>
+  <img height="165" src="https://streak-stats.demolab.com/?user=Scckar99&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-profile-trophy.vercel.app/?username=Scckar99&theme=tokyonight&no-frame=true&column=4" />
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 关于我
-
-<div style="background-color:#1a1a1a; border-radius:15px; padding:20px; border: 1px solid #4b0082;">
-  <p align="center">
-    👋 您好！我是<strong>范添瑞</strong>，一名专注于<strong>AI新技术</strong>的工程师。
-    我对<strong>人工智能</strong>、<strong>机器学习</strong>和<strong>前沿技术</strong>充满热情，
-    并致力于将这些技术应用到实际问题中。
-  </p>
 </div>
 
-<br>
+### 🚀 精选项目 Pinned
+- 🔧 `your-project-1`：一句话亮点介绍（可替换为真实仓库）
+- 📦 `your-project-2`：一句话亮点介绍（可替换为真实仓库）
+- 📊 `your-project-3`：一句话亮点介绍（可替换为真实仓库）
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Skills.gif?raw=true" width = 30px>  </picture> 技能栈
+> 提示：在你的主页中手动将项目 Pin 到 Profile，或直接在上方列表替换为真实链接。
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <div style="background-color:#1a1a1a; border-radius:15px; padding:20px; border: 1px solid #4b0082;">
-        <h3>💻 编程语言</h3>
-        <ul>
-          <li>🐍 Python</li>
-          <li>☕ Java</li>
-          <li>📜 JavaScript</li>
-        </ul>
-      </div>
-    </td>
-    <td valign="top" width="50%">
-      <div style="background-color:#1a1a1a; border-radius:15px; padding:20px; border: 1px solid #4b0082;">
-        <h3>🧠 AI/ML</h3>
-        <ul>
-          <li>🔢 TensorFlow</li>
-          <li>🔥 PyTorch</li>
-          <li>📊 Scikit-learn</li>
-        </ul>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <div style="background-color:#1a1a1a; border-radius:15px; padding:20px; margin-top:20px; border: 1px solid #4b0082;">
-        <h3>🌐 Web开发</h3>
-        <ul>
-          <li>⚛️ React</li>
-          <li>🟢 Node.js</li>
-          <li>⚡ Express</li>
-        </ul>
-      </div>
-    </td>
-    <td valign="top" width="50%">
-      <div style="background-color:#1a1a1a; border-radius:15px; padding:20px; margin-top:20px; border: 1px solid #4b0082;">
-        <h3>🗄️ 数据库</h3>
-        <ul>
-          <li>🐬 MySQL</li>
-          <li>🍃 MongoDB</li>
-        </ul>
-      </div>
-    </td>
-  </tr>
-</table>
+### 📫 联系我 Contact
+- Email：fan.tianrui@outlook.com
+- Blog：可放置个人博客或笔记链接
+- WeChat / Telegram：如需要，可添加二维码或用户名
 
-<br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> 主要项目
-
-<div style="background-color:#1a1a1a; border-radius:15px; padding:20px; border: 1px solid #4b0082;">
-  <h3>🚧 正在建设中...</h3>
-  <p>请稍后查看我的精彩项目展示</p>
-</div>
-
-<br>
-
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> GitHub统计
-
-<div align="center" style="background-color:#1a1a1a; border-radius:15px; padding:20px; border: 1px solid #4b0082;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Scckar99&theme=dark&hide_border=true&border_color=4b0082&bg_color=000000&title_color=9D00FF&icon_color=9D00FF" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scckar99&theme=dark&hide_border=true&border_color=4b0082&bg_color=000000&title_color=9D00FF&icon_color=9D00FF" alt="Top Languages" />
-</div>
-
-<br>
-
-## <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30"> 联系方式
-
-<div style="background-color:#1a1a1a; border-radius:15px; padding:20px; border: 1px solid #4b0082;">
-  <p align="center">
-    <a href="mailto:fan.tianrui@outlook.com">
-      <img src="https://img.shields.io/badge/Email-D100FF?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=000000" alt="Email"/>
-    </a>
-    <a href="https://github.com/Scckar99">
-      <img src="https://img.shields.io/badge/GitHub-9D00FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
-    </a>
-  </p>
-</div>
-
-<br>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> 访问量统计
-
-<div align="center" style="background-color:#1a1a1a; border-radius:15px; padding:10px; border: 1px solid #4b0082;">
-  <img src="https://komarev.com/ghpvc/?username=Scckar99&color=9D00FF&style=flat-square&label=Visitors" alt="Visitor Badge" />
-</div>
+---
+⭐️ 如果我的项目对你有帮助，欢迎 Star 支持！
