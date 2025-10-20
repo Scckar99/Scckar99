@@ -34,7 +34,7 @@
   </tr>
   <tr>
     <td><img height="165" src="https://streak-stats.demolab.com/?user=Scckar99&theme=dark&hide_border=true" /></td>
-    <td><img height="165" src="https://github-profile-trophy.vercel.app/?username=Scckar99&theme=dark&no-frame=true&column=4" /></td>
+    <td><img height="165" src="https://github-profile-trophy.vercel.app/?username=Scckar99&theme=darkhub&no-frame=true&column=4" /></td>
   </tr>
 </table>
 
