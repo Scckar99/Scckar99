@@ -17,17 +17,18 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Automation-2088FF?logo=githubactions&logoColor=fff)
 
 ### 📊 GitHub 统计 Stats
-<div>
+<div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Scckar99&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scckar99&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div>
-
-  <img height="165" src="https://streak-stats.demolab.com/?user=Scckar99&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-profile-trophy.vercel.app/?username=Scckar99&theme=tokyonight&no-frame=true&column=4" />
+<table>
+  <tr>
+    <td><img height="165" src="https://github-readme-stats.vercel.app/api?username=Scckar99&show_icons=true&theme=tokyonight&hide_border=true" /></td>
+    <td><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scckar99&layout=compact&theme=tokyonight&hide_border=true" /></td>
+  </tr>
+  <tr>
+    <td><img height="165" src="https://streak-stats.demolab.com/?user=Scckar99&theme=tokyonight&hide_border=true" /></td>
+    <td><img height="165" src="https://github-profile-trophy.vercel.app/?username=Scckar99&theme=tokyonight&no-frame=true&column=4" /></td>
+  </tr>
+</table>
 
 </div>
 
