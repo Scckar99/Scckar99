@@ -41,15 +41,11 @@
 </div>
 
 ### 🚀 精选项目 Pinned
-- 🤖 `ai-agent-starter`：多工具调用的 LLM 智能体脚手架（支持函数调用与记忆）
-- 📚 `rag-service`：基于向量数据库的检索增强生成服务（可插拔评测与观测）
-- 🧪 `llm-eval-kit`：Prompt/模型效果评测与对比实验工具（含可复现基线）
-
-> 提示：在你的主页中手动将项目 Pin 到 Profile，或直接在上方列表替换为真实链接。
+- 🖼️ `ImageFlowKit`：一套完整的图片批量处理工具（方向矫正、白边裁剪、内容提取）
 
 ### 📫 联系我 Contact
 - Email：fan.tianrui@outlook.com
-- Blog：可放置个人博客或笔记链接
+- Blog：https://scckar99.github.io
 - WeChat：可添加二维码或用户名
 
 ---
