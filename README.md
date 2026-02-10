@@ -3,12 +3,8 @@
 专注于 **LLM 应用、智能体（Agents）、RAG 与 AIGC 工程化落地** 的 AI 应用工程师。
 
 <p>
-  <a href="https://github.com/Scckar99">
-    <img src="https://img.shields.io/badge/GitHub-Scckar99-181717?logo=github" alt="GitHub" />
-  </a>
-  <a href="mailto:fan.tianrui@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://github.com/Scckar99"><img src="https://img.shields.io/badge/GitHub-Scckar99-181717?logo=github" alt="GitHub" /></a>
+  <a href="mailto:fan.tianrui@outlook.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=Scckar99&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
@@ -36,16 +32,32 @@
 
 ## GitHub 统计
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Scckar99&theme=github" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Scckar99&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Scckar99&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Scckar99&theme=github" alt="GitHub Profile Details" />
+  </picture>
 </div>
 
 <div align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Scckar99&theme=github" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Scckar99&theme=github" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Scckar99&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Scckar99&theme=github" />
+    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Scckar99&theme=github" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Scckar99&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Scckar99&theme=github" />
+    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Scckar99&theme=github" alt="GitHub Languages" />
+  </picture>
 </div>
 
 <div align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=Scckar99&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Scckar99&hide_border=true&theme=github-dark-blue" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Scckar99&hide_border=true&theme=default" />
+    <img height="165" src="https://streak-stats.demolab.com/?user=Scckar99&hide_border=true&theme=default" alt="GitHub Streak" />
+  </picture>
 </div>
 
 ## 精选项目
