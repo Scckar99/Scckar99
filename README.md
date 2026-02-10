@@ -1,52 +1,58 @@
-## 你好，我是 Scckar 👋
+# Hi, I'm Scckar 👋
 
-欢迎来到我的 GitHub 主页！我是一名 AI 新技术开发工程师，专注于大语言模型应用（LLM Apps）、智能体（Agents）、RAG 检索增强生成、AIGC 与 AI 工程化落地。
+AI Application Engineer focused on **LLM Apps, Agents, RAG, and AIGC engineering**.
 
-### 🙋‍♂️ 关于我 About Me
-- 🧑‍💻 方向：LLM 应用、智能体编排、RAG 系统、AIGC 工具
-- 🧠 关注：效果评测（LLM-as-a-Judge/Golden Set）、Prompt/系统提示工程、对齐与安全
-- 🛠 工程化：服务化、可观测性、评测基准、AB 实验、自动化部署
-- 🔬 近期兴趣：多模态、函数调用/工具使用、工作流编排与记忆体系
+<p>
+  <a href="https://github.com/Scckar99">
+    <img src="https://img.shields.io/badge/GitHub-Scckar99-181717?logo=github" alt="GitHub" />
+  </a>
+  <a href="mailto:fan.tianrui@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Scckar99&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-### 🛠 技术栈 Tech Stack
+## About Me
+- Building production-ready AI systems with strong engineering standards.
+- Interested in evaluation pipelines (`LLM-as-a-Judge`, golden set, offline/online metrics).
+- Working on agent orchestration, tool calling, memory architecture, and observability.
+- Turning prototypes into stable services with CI/CD, testing, and monitoring.
+
+## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/TypeScript-4%2B-3178C6?logo=typescript&logoColor=fff)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch&logoColor=fff)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?logo=tensorflow&logoColor=fff)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?logo=fastapi&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?logo=node.js&logoColor=fff)
 ![LangChain](https://img.shields.io/badge/LangChain-Agents%2FRAG-1C3C3C)
 ![OpenAI](https://img.shields.io/badge/OpenAI-API-412991?logo=openai&logoColor=fff)
 ![VectorDB](https://img.shields.io/badge/VectorDB-Milvus%2FPGVector%2FChroma-4B8BBE)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-4169E1?logo=postgresql&logoColor=fff)
+![Redis](https://img.shields.io/badge/Redis-Cache-DC382D?logo=redis&logoColor=fff)
 ![Docker](https://img.shields.io/badge/Docker-Container-2496ED?logo=docker&logoColor=fff)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?logo=kubernetes&logoColor=fff)
-![Redis](https://img.shields.io/badge/Redis-Cache-DC382D?logo=redis&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-4169E1?logo=postgresql&logoColor=fff)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?logo=githubactions&logoColor=fff)
-![TypeScript](https://img.shields.io/badge/TypeScript-4%2B-3178C6?logo=typescript&logoColor=fff)
-![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?logo=node.js&logoColor=fff)
 
-### 📊 GitHub 统计 Stats
+## GitHub Stats
 <div align="center">
-
-<table>
-  <tr>
-    <td><img height="165" src="https://github-readme-stats.vercel.app/api?username=Scckar99&show_icons=true&theme=dark&hide_border=true" /></td>
-    <td><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scckar99&layout=compact&theme=dark&hide_border=true" /></td>
-  </tr>
-  <tr>
-    <td><img height="165" src="https://streak-stats.demolab.com/?user=Scckar99&theme=dark&hide_border=true" /></td>
-    <td><img height="165" src="https://github-profile-trophy.vercel.app/?username=Scckar99&theme=darkhub&no-frame=true&column=4" /></td>
-  </tr>
-</table>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Scckar99&show_icons=true&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scckar99&layout=compact&hide_border=true" />
 </div>
 
-### 🚀 精选项目 Pinned
-- 🖼️ `ImageFlowKit`：一套完整的图片批量处理工具（方向矫正、白边裁剪、内容提取）
+<div align="center">
+  <img height="165" src="https://streak-stats.demolab.com/?user=Scckar99&hide_border=true" />
+</div>
 
-### 📫 联系我 Contact
-- Email：fan.tianrui@outlook.com
-- Blog：https://scckar99.github.io
-- WeChat：可添加二维码或用户名
+## Featured Projects
+- `ImageFlowKit`: Batch image processing toolkit (rotation correction, white-edge trimming, content extraction).
+- `ai-agent-starter`: Agent scaffold with tool calling and memory support.
+- `rag-service`: Retrieval-augmented generation service with evaluation hooks.
+- `llm-eval-kit`: Prompt/model evaluation toolkit with reproducible baselines.
 
----
-⭐️ 如果我的项目对你有帮助，欢迎 Star 支持！
+## Contact
+- Email: `fan.tianrui@outlook.com`
+- Blog: `https://scckar99.github.io`
+- WeChat: add QR code or username here.
+
+If you find my work helpful, feel free to star the repositories.
