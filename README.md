@@ -1,6 +1,6 @@
-# Hi, I'm Scckar 👋
+# 你好，我是 Scckar 👋
 
-AI Application Engineer focused on **LLM Apps, Agents, RAG, and AIGC engineering**.
+专注于 **LLM 应用、智能体（Agents）、RAG 与 AIGC 工程化落地** 的 AI 应用工程师。
 
 <p>
   <a href="https://github.com/Scckar99">
@@ -12,13 +12,13 @@ AI Application Engineer focused on **LLM Apps, Agents, RAG, and AIGC engineering
   <img src="https://komarev.com/ghpvc/?username=Scckar99&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-## About Me
-- Building production-ready AI systems with strong engineering standards.
-- Interested in evaluation pipelines (`LLM-as-a-Judge`, golden set, offline/online metrics).
-- Working on agent orchestration, tool calling, memory architecture, and observability.
-- Turning prototypes into stable services with CI/CD, testing, and monitoring.
+## 关于我
+- 关注可落地的 AI 系统建设，强调工程质量与稳定性。
+- 持续实践模型评测体系：`LLM-as-a-Judge`、Golden Set、离线/在线指标。
+- 重点方向包括智能体编排、工具调用、记忆架构与可观测性。
+- 擅长将原型快速推进为可交付服务（CI/CD、测试、监控）。
 
-## Tech Stack
+## 技术栈
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-4%2B-3178C6?logo=typescript&logoColor=fff)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch&logoColor=fff)
@@ -34,25 +34,29 @@ AI Application Engineer focused on **LLM Apps, Agents, RAG, and AIGC engineering
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?logo=kubernetes&logoColor=fff)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?logo=githubactions&logoColor=fff)
 
-## GitHub Stats
+## GitHub 统计
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Scckar99&show_icons=true&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scckar99&layout=compact&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Scckar99&theme=github" />
+</div>
+
+<div align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Scckar99&theme=github" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Scckar99&theme=github" />
 </div>
 
 <div align="center">
   <img height="165" src="https://streak-stats.demolab.com/?user=Scckar99&hide_border=true" />
 </div>
 
-## Featured Projects
-- `ImageFlowKit`: Batch image processing toolkit (rotation correction, white-edge trimming, content extraction).
-- `ai-agent-starter`: Agent scaffold with tool calling and memory support.
-- `rag-service`: Retrieval-augmented generation service with evaluation hooks.
-- `llm-eval-kit`: Prompt/model evaluation toolkit with reproducible baselines.
+## 精选项目
+- [`ImageFlowKit`](https://github.com/Scckar99/ImageFlowKit)：图片批量处理工具（方向矫正、白边裁剪、内容提取）。
+- [`word2md`](https://github.com/Scckar99/word2md)：Word 文档（`.docx/.doc`）转 Markdown 工具（当前为 Fork 仓库）。
+- [`Scckar99.github.io`](https://github.com/Scckar99/Scckar99.github.io)：我的个人博客（Astro）。
+- [`Test`](https://github.com/Scckar99/Test)：用于学习和测试的仓库。
 
-## Contact
-- Email: `fan.tianrui@outlook.com`
-- Blog: `https://scckar99.github.io`
-- WeChat: add QR code or username here.
+## 联系方式
+- 邮箱：`fan.tianrui@outlook.com`
+- 博客：`https://scckar99.github.io`
+- 微信：可在此填写微信号或二维码说明
 
-If you find my work helpful, feel free to star the repositories.
+如果我的项目对你有帮助，欢迎 Star 支持。
